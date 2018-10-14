@@ -1,9 +1,11 @@
 # Stock-Prediction-Strategies-ML
-Improving the returns of Stock Market based on strategies
 
-Stock data used for this code is the Pakistan Stock Exchange Data (from my country;) ) Feel Free to use your data.
 
-A Strategy is built to see how the predictions would have impacted on the Market Returns.
+# Overview
+
+This project aims for improving the returns of Stock Market based on a strategy. A Strategy is built to see how the predictions would have impacted on the Market Returns.
+
+# Input Features
 
 The Input Features used are:
 	High minus Low price
@@ -15,4 +17,8 @@ The Input Features used are:
 	Relative Strength Index
 	Williams %R
 
-For some features the library Talib is required.
+These features are calculated using the values in the data. For some features the library [Talib] is required.
+
+# Note
+
+Stock data used for this code is the Pakistan Stock Exchange Data {from my country;) }. Feel Free to use your data.

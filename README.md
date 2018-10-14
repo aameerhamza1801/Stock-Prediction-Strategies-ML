@@ -5,6 +5,15 @@
 
 This project aims for improving the returns of Stock Market based on a strategy. A Strategy is built to see how the predictions would have impacted on the Market Returns.
 
+# Dependencies
+
+	Numpy
+	Talib
+	pandas
+	keras
+	matplotlib
+
+
 # Input Features
 
 The Input Features used are:

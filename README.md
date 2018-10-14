@@ -16,7 +16,8 @@ This project aims for improving the returns of Stock Market based on a strategy.
 
 # Input Features
 
-The Input Features used are:
+The Input Features used are as follows
+
 	High minus Low price
 	Close minus Open price
 	Three day moving average
